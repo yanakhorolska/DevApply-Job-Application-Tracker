@@ -221,11 +221,13 @@ PORT=3000
 Run the application:
 
 npm run dev
+
 Testing
 
 Run tests with:
 
 npm test
+
 Author
 
 Yana Khorolska
